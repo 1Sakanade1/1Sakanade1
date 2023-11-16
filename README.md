@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sviatoslav</h1>
 <h3 align="center">A passionate JavaScript developer from Belarus</h3>
 
+- 🔭 I’m currently working on **Ulibi.tv course "Продвинутый Frontend. В Production на React"**
+
 - 🧩 I’m currently learning **React, Redux, Node.js**
 
 - 🤝🏻 I’m looking to collaborate on **React, Redux, and Node.js projects. Currently studying these technologies and seeking an internship opportunity to apply my skills and gain practical experience.**
