@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sviatoslav</h1>
 <h3 align="center">A passionate JavaScript developer from Belarus</h3>
 
-<img align="right" width="400px" src="<img src="https://s5.gifyu.com/images/SiFuS.gif" alt="ezgif.com optimize" width="574" height="522" data-is360="0" data-load="full" class="cursor-zoom-in" style="width: 574px; height: 522px; display: block;">">
+<img align="right" width="400px" src="<img src="https://s5.gifyu.com/images/SiFuS.gif">
 
 - 🔭 I’m currently working on **Ulibi.tv course "Продвинутый Frontend. В Production на React"**
 
